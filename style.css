@@ -1,0 +1,18 @@
+body {
+    background: blue;
+    text-align: center;
+    padding: 20px 150px 100px;
+    border: 3px solid white;
+}
+
+h1, p{
+    font-family: Arial;
+    color: white;
+}
+
+div {
+    text-align: left;
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+}
